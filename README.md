@@ -3,6 +3,7 @@ An exploratory data analysis project examining how market sentiment (Fear vs Gre
 
 ## Overview
 This project analyzes how market sentiment (Fear vs Greed) impacts trader behavior and performance using historical crypto trading data combined with a daily Fear–Greed Index.
+
 The objective is to understand whether traders change their risk-taking, activity levels, and performance under different sentiment regimes.
 
 ## Datasets Used
